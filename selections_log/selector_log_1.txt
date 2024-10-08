@@ -1,0 +1,890 @@
+Begin MAB selection.
+Start from epoch 1, select Dataset026_FeTS18flairED for joint training, selected 2 times.
+Info: loss: 0.6778137683868408, cos_sim: 0.425380140542984, reward: -0.11359512805938721, UCB: 0.13316477835178375.
+Begin MAB selection.
+Start from epoch 2, select Dataset121_UflairWMH for joint training, selected 2 times.
+Info: loss: 1.510510802268982, cos_sim: 0.9969017505645752, reward: -1.1648443937301636, UCB: -0.916206419467926.
+Begin MAB selection.
+Start from epoch 3, select Dataset014_FeTS04flairED for joint training, selected 2 times.
+Info: loss: 1.2919219732284546, cos_sim: 0.9859345555305481, reward: -0.9089786410331726, UCB: -0.6585592031478882.
+Begin MAB selection.
+Start from epoch 4, select Dataset002_FeTS01flairED for joint training, selected 2 times.
+Info: loss: 0.8928257822990417, cos_sim: 0.9586681127548218, reward: -0.46395787596702576, UCB: -0.21184465289115906.
+Begin MAB selection.
+Start from epoch 5, select Dataset002_FeTS01flairED for joint training, selected 3 times.
+Info: loss: 0.8736348748207092, cos_sim: 0.9355911016464233, reward: -0.29584819078445435, UCB: -0.1164359301328659.
+Begin MAB selection.
+Start from epoch 6, select Dataset002_FeTS01flairED for joint training, selected 4 times.
+Info: loss: 0.7628576755523682, cos_sim: 0.9212623834609985, reward: -0.11977208405733109, UCB: 0.027607165277004242.
+Begin MAB selection.
+Start from epoch 7, select Dataset026_FeTS18flairED for joint training, selected 3 times.
+Info: loss: 0.8320288062095642, cos_sim: 0.9669819474220276, reward: -0.03555048629641533, UCB: 0.1459939032793045.
+Begin MAB selection.
+Start from epoch 8, select Dataset121_UflairWMH for joint training, selected 3 times.
+Info: loss: 0.8888859152793884, cos_sim: 0.9008914232254028, reward: 0.0035181799903512, UCB: 0.18606144189834595.
+Begin MAB selection.
+Start from epoch 9, select Dataset002_FeTS01flairED for joint training, selected 5 times.
+Info: loss: 0.5628171563148499, cos_sim: 0.8919026851654053, reward: 0.21792706847190857, UCB: 0.34768253564834595.
+Begin MAB selection.
+Start from epoch 10, select Dataset013_FeTS04flairET for joint training, selected 2 times.
+Info: loss: 1.003627061843872, cos_sim: 0.9530598521232605, reward: 0.13873285055160522, UCB: 0.39954686164855957.
+Begin MAB selection.
+Start from epoch 11, select Dataset015_FeTS04flairNCR for joint training, selected 2 times.
+Info: loss: 0.9834612011909485, cos_sim: 0.8825156688690186, reward: 0.18741902709007263, UCB: 0.44948723912239075.
+Begin MAB selection.
+Start from epoch 12, select Dataset014_FeTS04flairED for joint training, selected 3 times.
+Info: loss: 0.6344521641731262, cos_sim: 0.7022888660430908, reward: 0.2576912045478821, UCB: 0.44385606050491333.
+Begin MAB selection.
+Start from epoch 13, select Dataset002_FeTS01flairED for joint training, selected 6 times.
+Info: loss: 0.5996697545051575, cos_sim: 0.8500279784202576, reward: 0.4026220440864563, UCB: 0.5208845734596252.
+Begin MAB selection.
+Start from epoch 14, select Dataset121_UflairWMH for joint training, selected 4 times.
+Info: loss: 0.7090892195701599, cos_sim: 0.9323964715003967, reward: 0.4686763882637024, UCB: 0.6220030784606934.
+Begin MAB selection.
+Start from epoch 15, select Dataset121_UflairWMH for joint training, selected 5 times.
+Info: loss: 0.6517931222915649, cos_sim: 0.7749822735786438, reward: 0.4276970624923706, UCB: 0.5610265135765076.
+Begin MAB selection.
+Start from epoch 16, select Dataset002_FeTS01flairED for joint training, selected 7 times.
+Info: loss: 0.5559617877006531, cos_sim: 0.806404173374176, reward: 0.49522310495376587, UCB: 0.6045165657997131.
+Begin MAB selection.
+Start from epoch 17, select Dataset013_FeTS04flairET for joint training, selected 3 times.
+Info: loss: 0.8995797038078308, cos_sim: 0.853347659111023, reward: 0.42353951930999756, UCB: 0.6135636568069458.
+Begin MAB selection.
+Start from epoch 18, select Dataset121_UflairWMH for joint training, selected 6 times.
+Info: loss: 0.673171877861023, cos_sim: 0.8948609232902527, reward: 0.5959519147872925, UCB: 0.7165766954421997.
+Begin MAB selection.
+Start from epoch 19, select Dataset002_FeTS01flairED for joint training, selected 8 times.
+Info: loss: 0.6081861257553101, cos_sim: 0.744178295135498, reward: 0.49666547775268555, UCB: 0.598975419998169.
+Begin MAB selection.
+Start from epoch 20, select Dataset121_UflairWMH for joint training, selected 7 times.
+Info: loss: 0.6752875447273254, cos_sim: 0.9451035261154175, reward: 0.6682502031326294, UCB: 0.7791387438774109.
+Begin MAB selection.
+Start from epoch 21, select Dataset014_FeTS04flairED for joint training, selected 4 times.
+Info: loss: 0.7713139653205872, cos_sim: 0.9515591859817505, reward: 0.6956042051315308, UCB: 0.8529482483863831.
+Begin MAB selection.
+Start from epoch 22, select Dataset026_FeTS18flairED for joint training, selected 4 times.
+Info: loss: 0.40491610765457153, cos_sim: 0.7934747934341431, reward: 0.6392983794212341, UCB: 0.7971521019935608.
+Begin MAB selection.
+Start from epoch 23, select Dataset026_FeTS18flairED for joint training, selected 5 times.
+Info: loss: 0.40463072061538696, cos_sim: 0.930217444896698, reward: 0.768010675907135, UCB: 0.9051456451416016.
+Begin MAB selection.
+Start from epoch 24, select Dataset119_GflairWMH for joint training, selected 2 times.
+Info: loss: 0.8877946734428406, cos_sim: 0.7752295732498169, reward: 0.5917901396751404, UCB: 0.8668969869613647.
+Begin MAB selection.
+Start from epoch 25, select Dataset121_UflairWMH for joint training, selected 8 times.
+Info: loss: 0.586747944355011, cos_sim: 0.5819747447967529, reward: 0.502276599407196, UCB: 0.606565535068512.
+Begin MAB selection.
+Start from epoch 26, select Dataset019_FeTS04t1ceET for joint training, selected 2 times.
+Info: loss: 0.665459930896759, cos_sim: 0.8806009292602539, reward: 0.6925855278968811, UCB: 0.9693034887313843.
+Begin MAB selection.
+Start from epoch 27, select Dataset020_FeTS04t1ceED for joint training, selected 2 times.
+Info: loss: 1.0452219247817993, cos_sim: 0.9074686765670776, reward: 0.7497869729995728, UCB: 1.0272810459136963.
+Begin MAB selection.
+Start from epoch 28, select Dataset002_FeTS01flairED for joint training, selected 9 times.
+Info: loss: 0.8180786371231079, cos_sim: 0.9577043652534485, reward: 0.8274393081665039, UCB: 0.9258161783218384.
+Begin MAB selection.
+Start from epoch 29, select Dataset015_FeTS04flairNCR for joint training, selected 3 times.
+Info: loss: 0.9427628517150879, cos_sim: 0.9096698760986328, reward: 0.7822252511978149, UCB: 0.9795022010803223.
+Begin MAB selection.
+Start from epoch 30, select Dataset026_FeTS18flairED for joint training, selected 6 times.
+Info: loss: 0.4511263966560364, cos_sim: 0.5720557570457458, reward: 0.5473548173904419, UCB: 0.672447144985199.
+Begin MAB selection.
+Start from epoch 31, select Dataset002_FeTS01flairED for joint training, selected 10 times.
+Info: loss: 0.6157668232917786, cos_sim: 0.5253403782844543, reward: 0.43277639150619507, UCB: 0.526250422000885.
+Begin MAB selection.
+Start from epoch 32, select Dataset119_GflairWMH for joint training, selected 3 times.
+Info: loss: 1.0074576139450073, cos_sim: 0.9019805192947388, reward: 0.6953055262565613, UCB: 0.8940829038619995.
+Begin MAB selection.
+Start from epoch 33, select Dataset014_FeTS04flairED for joint training, selected 5 times.
+Info: loss: 0.708942711353302, cos_sim: 0.8661156892776489, reward: 0.7955188155174255, UCB: 0.9364140033721924.
+Begin MAB selection.
+Start from epoch 34, select Dataset121_UflairWMH for joint training, selected 9 times.
+Info: loss: 0.6400518417358398, cos_sim: 0.7603322267532349, reward: 0.6419967412948608, UCB: 0.741858959197998.
+Begin MAB selection.
+Start from epoch 35, select Dataset017_FeTS04t1ED for joint training, selected 2 times.
+Info: loss: 1.0186442136764526, cos_sim: 0.33545511960983276, reward: 0.23628388345241547, UCB: 0.5193857550621033.
+Begin MAB selection.
+Start from epoch 36, select Dataset002_FeTS01flairED for joint training, selected 11 times.
+Info: loss: 0.7244139313697815, cos_sim: 0.94113689661026, reward: 0.8145542144775391, UCB: 0.9042799472808838.
+Begin MAB selection.
+Start from epoch 37, select Dataset021_FeTS04t1ceNCR for joint training, selected 2 times.
+Info: loss: 1.032546877861023, cos_sim: 0.9531236886978149, reward: 0.776636004447937, UCB: 1.0609967708587646.
+Begin MAB selection.
+Start from epoch 38, select Dataset015_FeTS04flairNCR for joint training, selected 4 times.
+Info: loss: 0.8098456263542175, cos_sim: 0.8709675669670105, reward: 0.8348854780197144, UCB: 0.9994139671325684.
+Begin MAB selection.
+Start from epoch 39, select Dataset023_FeTS04t2ED for joint training, selected 2 times.
+Info: loss: 0.7793838381767273, cos_sim: 0.7357427477836609, reward: 0.687019407749176, UCB: 0.9725903272628784.
+Begin MAB selection.
+Start from epoch 40, select Dataset002_FeTS01flairED for joint training, selected 12 times.
+Info: loss: 0.7955715656280518, cos_sim: 0.841555118560791, reward: 0.8058716058731079, UCB: 0.8921517729759216.
+Begin MAB selection.
+Start from epoch 41, select Dataset013_FeTS04flairET for joint training, selected 4 times.
+Info: loss: 0.8888190388679504, cos_sim: 0.9879249334335327, reward: 0.8867360949516296, UCB: 1.0522831678390503.
+Begin MAB selection.
+Start from epoch 42, select Dataset019_FeTS04t1ceET for joint training, selected 3 times.
+Info: loss: 0.8578929901123047, cos_sim: 0.9763808846473694, reward: 0.9313648343086243, UCB: 1.1345183849334717.
+Begin MAB selection.
+Start from epoch 43, select Dataset115_iSegt1WM for joint training, selected 2 times.
+Info: loss: 1.273044466972351, cos_sim: 0.7149243354797363, reward: 0.5672199726104736, UCB: 0.8550788164138794.
+Begin MAB selection.
+Start from epoch 44, select Dataset016_FeTS04t1ET for joint training, selected 2 times.
+Info: loss: 1.0334545373916626, cos_sim: 0.7222679853439331, reward: 0.5832433700561523, UCB: 0.8716487884521484.
+Begin MAB selection.
+Start from epoch 45, select Dataset013_FeTS04flairET for joint training, selected 5 times.
+Info: loss: 0.7484632134437561, cos_sim: 0.7992176413536072, reward: 0.7737768292427063, UCB: 0.9182480573654175.
+Begin MAB selection.
+Start from epoch 46, select Dataset121_UflairWMH for joint training, selected 10 times.
+Info: loss: 0.5893750190734863, cos_sim: 0.8827074766159058, reward: 0.8511593341827393, UCB: 0.9476494789123535.
+Begin MAB selection.
+Start from epoch 47, select Dataset024_FeTS04t2NCR for joint training, selected 2 times.
+Info: loss: 0.985893726348877, cos_sim: 0.8722383975982666, reward: 0.8202046751976013, UCB: 1.1101940870285034.
+Begin MAB selection.
+Start from epoch 48, select Dataset013_FeTS04flairET for joint training, selected 6 times.
+Info: loss: 0.7804306149482727, cos_sim: 0.5478746294975281, reward: 0.5580229759216309, UCB: 0.6879384517669678.
+Begin MAB selection.
+Start from epoch 49, select Dataset013_FeTS04flairET for joint training, selected 7 times.
+Info: loss: 0.7427976131439209, cos_sim: 0.6743984222412109, reward: 0.6522639989852905, UCB: 0.7710650563240051.
+Begin MAB selection.
+Start from epoch 50, select Dataset118_iSegt2WM for joint training, selected 2 times.
+Info: loss: 1.1336091756820679, cos_sim: 0.7375779151916504, reward: 0.6759560108184814, UCB: 0.9674519896507263.
+Begin MAB selection.
+Start from epoch 51, select Dataset014_FeTS04flairED for joint training, selected 6 times.
+Info: loss: 0.5466741323471069, cos_sim: 0.9510142803192139, reward: 0.9062712788581848, UCB: 1.0368497371673584.
+Begin MAB selection.
+Start from epoch 52, select Dataset015_FeTS04flairNCR for joint training, selected 5 times.
+Info: loss: 0.8096111416816711, cos_sim: 0.9753772020339966, reward: 0.950764536857605, UCB: 1.0969948768615723.
+Begin MAB selection.
+Start from epoch 53, select Dataset022_FeTS04t2ET for joint training, selected 2 times.
+Info: loss: 0.9229000210762024, cos_sim: 0.7996430993080139, reward: 0.788362979888916, UCB: 1.0812950134277344.
+Begin MAB selection.
+Start from epoch 54, select Dataset013_FeTS04flairET for joint training, selected 8 times.
+Info: loss: 0.7307401299476624, cos_sim: 0.5547031760215759, reward: 0.5827974677085876, UCB: 0.6936907768249512.
+Begin MAB selection.
+Start from epoch 55, select Dataset015_FeTS04flairNCR for joint training, selected 6 times.
+Info: loss: 0.7867723703384399, cos_sim: 0.8486584424972534, reward: 0.8110198378562927, UCB: 0.9424350261688232.
+Begin MAB selection.
+Start from epoch 56, select Dataset019_FeTS04t1ceET for joint training, selected 4 times.
+Info: loss: 0.7076622843742371, cos_sim: 0.735358715057373, reward: 0.720810055732727, UCB: 0.8907263875007629.
+Begin MAB selection.
+Start from epoch 57, select Dataset117_iSegt2GM for joint training, selected 2 times.
+Info: loss: 1.196978211402893, cos_sim: 0.7593249082565308, reward: 0.6319400072097778, UCB: 0.9266875386238098.
+Begin MAB selection.
+Start from epoch 58, select Dataset026_FeTS18flairED for joint training, selected 7 times.
+Info: loss: 0.40075618028640747, cos_sim: 0.4306579828262329, reward: 0.45470499992370605, UCB: 0.5752137899398804.
+Begin MAB selection.
+Start from epoch 59, select Dataset026_FeTS18flairED for joint training, selected 8 times.
+Info: loss: 0.4036529064178467, cos_sim: 0.6597285270690918, reward: 0.6363286375999451, UCB: 0.7480610609054565.
+Begin MAB selection.
+Start from epoch 60, select Dataset019_FeTS04t1ceET for joint training, selected 5 times.
+Info: loss: 0.5674144625663757, cos_sim: 0.7923291921615601, reward: 0.7676714062690735, UCB: 0.9156920909881592.
+Begin MAB selection.
+Start from epoch 61, select Dataset018_FeTS04t1NCR for joint training, selected 2 times.
+Info: loss: 0.9928657412528992, cos_sim: 0.7414281964302063, reward: 0.7215234041213989, UCB: 1.01798415184021.
+Begin MAB selection.
+Start from epoch 62, select Dataset013_FeTS04flairET for joint training, selected 9 times.
+Info: loss: 0.7832199335098267, cos_sim: 0.7661297917366028, reward: 0.7409032583236694, UCB: 0.8458641767501831.
+Begin MAB selection.
+Start from epoch 63, select Dataset118_iSegt2WM for joint training, selected 3 times.
+Info: loss: 1.0931302309036255, cos_sim: 0.8199453949928284, reward: 0.7956830263137817, UCB: 1.0058934688568115.
+Begin MAB selection.
+Start from epoch 64, select Dataset019_FeTS04t1ceET for joint training, selected 6 times.
+Info: loss: 0.5297605991363525, cos_sim: 0.8097490072250366, reward: 0.6909491419792175, UCB: 0.8240779042243958.
+Begin MAB selection.
+Start from epoch 65, select Dataset015_FeTS04flairNCR for joint training, selected 7 times.
+Info: loss: 0.7822992205619812, cos_sim: 0.8437926769256592, reward: 0.8129667639732361, UCB: 0.9346583485603333.
+Begin MAB selection.
+Start from epoch 66, select Dataset119_GflairWMH for joint training, selected 4 times.
+Info: loss: 0.9079347848892212, cos_sim: 0.7343822717666626, reward: 0.7346959114074707, UCB: 0.9070201516151428.
+Begin MAB selection.
+Start from epoch 67, select Dataset115_iSegt1WM for joint training, selected 3 times.
+Info: loss: 1.026515007019043, cos_sim: 0.4851077198982239, reward: 0.36031872034072876, UCB: 0.5716456770896912.
+Begin MAB selection.
+Start from epoch 68, select Dataset119_GflairWMH for joint training, selected 5 times.
+Info: loss: 0.8072792291641235, cos_sim: 0.5020251274108887, reward: 0.4392131268978119, UCB: 0.5888349413871765.
+Begin MAB selection.
+Start from epoch 69, select Dataset015_FeTS04flairNCR for joint training, selected 8 times.
+Info: loss: 0.7437001466751099, cos_sim: 0.556175708770752, reward: 0.5354849696159363, UCB: 0.6487310528755188.
+Begin MAB selection.
+Start from epoch 70, select Dataset013_FeTS04flairET for joint training, selected 10 times.
+Info: loss: 0.7224351763725281, cos_sim: 0.6939599514007568, reward: 0.6385130286216736, UCB: 0.7385109066963196.
+Begin MAB selection.
+Start from epoch 71, select Dataset002_FeTS01flairED for joint training, selected 13 times.
+Info: loss: 0.5845785737037659, cos_sim: 0.8129634857177734, reward: 0.7730711102485657, UCB: 0.859778106212616.
+Begin MAB selection.
+Start from epoch 72, select Dataset021_FeTS04t1ceNCR for joint training, selected 3 times.
+Info: loss: 1.0129975080490112, cos_sim: 0.6543927788734436, reward: 0.5742336511611938, UCB: 0.7868786454200745.
+Begin MAB selection.
+Start from epoch 73, select Dataset021_FeTS04t1ceNCR for joint training, selected 4 times.
+Info: loss: 0.9874011874198914, cos_sim: 0.9509843587875366, reward: 0.9120067954063416, UCB: 1.0858380794525146.
+Begin MAB selection.
+Start from epoch 74, select Dataset015_FeTS04flairNCR for joint training, selected 9 times.
+Info: loss: 0.7615111470222473, cos_sim: 0.8896086812019348, reward: 0.8899986743927002, UCB: 0.9965736865997314.
+Begin MAB selection.
+Start from epoch 75, select Dataset119_GflairWMH for joint training, selected 6 times.
+Info: loss: 0.8078463673591614, cos_sim: 0.7596290111541748, reward: 0.7636021375656128, UCB: 0.8985669612884521.
+Begin MAB selection.
+Start from epoch 76, select Dataset020_FeTS04t1ceED for joint training, selected 3 times.
+Info: loss: 0.9451534152030945, cos_sim: 0.8497541546821594, reward: 0.6871525645256042, UCB: 0.9007959365844727.
+Begin MAB selection.
+Start from epoch 77, select Dataset017_FeTS04t1ED for joint training, selected 3 times.
+Info: loss: 0.9675006866455078, cos_sim: 0.815895676612854, reward: 0.7967394590377808, UCB: 1.0106252431869507.
+Begin MAB selection.
+Start from epoch 78, select Dataset002_FeTS01flairED for joint training, selected 14 times.
+Info: loss: 0.6831682324409485, cos_sim: 0.908639132976532, reward: 0.8907581567764282, UCB: 0.9747450351715088.
+Begin MAB selection.
+Start from epoch 79, select Dataset014_FeTS04flairED for joint training, selected 7 times.
+Info: loss: 0.5867325067520142, cos_sim: 0.8595390915870667, reward: 0.8008422255516052, UCB: 0.9246043562889099.
+Begin MAB selection.
+Start from epoch 80, select Dataset002_FeTS01flairED for joint training, selected 15 times.
+Info: loss: 0.7282716035842896, cos_sim: 0.7587235569953918, reward: 0.6566146612167358, UCB: 0.7377245426177979.
+Begin MAB selection.
+Start from epoch 81, select Dataset118_iSegt2WM for joint training, selected 4 times.
+Info: loss: 1.1755647659301758, cos_sim: 0.42817816138267517, reward: 0.42792823910713196, UCB: 0.6033348441123962.
+Begin MAB selection.
+Start from epoch 82, select Dataset121_UflairWMH for joint training, selected 11 times.
+Info: loss: 0.5963007807731628, cos_sim: 0.5425539612770081, reward: 0.5357288718223572, UCB: 0.6319054961204529.
+Begin MAB selection.
+Start from epoch 83, select Dataset014_FeTS04flairED for joint training, selected 8 times.
+Info: loss: 0.7104124426841736, cos_sim: 0.8819180727005005, reward: 0.8246053457260132, UCB: 0.9396796226501465.
+Begin MAB selection.
+Start from epoch 84, select Dataset115_iSegt1WM for joint training, selected 4 times.
+Info: loss: 1.0527080297470093, cos_sim: 0.7342005968093872, reward: 0.7171905636787415, UCB: 0.8931524753570557.
+Begin MAB selection.
+Start from epoch 85, select Dataset019_FeTS04t1ceET for joint training, selected 7 times.
+Info: loss: 0.675109326839447, cos_sim: 0.7663875818252563, reward: 0.6486156582832336, UCB: 0.7731676697731018.
+Begin MAB selection.
+Start from epoch 86, select Dataset119_GflairWMH for joint training, selected 7 times.
+Info: loss: 0.818376362323761, cos_sim: 0.955224871635437, reward: 0.9218307137489319, UCB: 1.0465095043182373.
+Begin MAB selection.
+Start from epoch 87, select Dataset119_GflairWMH for joint training, selected 8 times.
+Info: loss: 0.6894022226333618, cos_sim: 0.7676171064376831, reward: 0.7827970385551453, UCB: 0.8983433246612549.
+Begin MAB selection.
+Start from epoch 88, select Dataset121_UflairWMH for joint training, selected 12 times.
+Info: loss: 0.6411488652229309, cos_sim: 0.941811740398407, reward: 0.916274905204773, UCB: 1.0085406303405762.
+Begin MAB selection.
+Start from epoch 89, select Dataset026_FeTS18flairED for joint training, selected 9 times.
+Info: loss: 0.3942548334598541, cos_sim: 0.9349848628044128, reward: 0.9303194284439087, UCB: 1.0386170148849487.
+Begin MAB selection.
+Start from epoch 90, select Dataset002_FeTS01flairED for joint training, selected 16 times.
+Info: loss: 0.792877733707428, cos_sim: 0.9841881990432739, reward: 0.9764482975006104, UCB: 1.0556145906448364.
+Begin MAB selection.
+Start from epoch 91, select Dataset121_UflairWMH for joint training, selected 13 times.
+Info: loss: 0.6212535500526428, cos_sim: 0.8300766944885254, reward: 0.825210690498352, UCB: 0.9138064980506897.
+Begin MAB selection.
+Start from epoch 92, select Dataset018_FeTS04t1NCR for joint training, selected 3 times.
+Info: loss: 1.0465117692947388, cos_sim: 0.7016586065292358, reward: 0.6886436343193054, UCB: 0.9058647155761719.
+Begin MAB selection.
+Start from epoch 93, select Dataset117_iSegt2GM for joint training, selected 3 times.
+Info: loss: 1.3554050922393799, cos_sim: 0.822647213935852, reward: 0.6872470378875732, UCB: 0.9046726226806641.
+Begin MAB selection.
+Start from epoch 94, select Dataset002_FeTS01flairED for joint training, selected 17 times.
+Info: loss: 0.6246572136878967, cos_sim: 0.9453666806221008, reward: 0.9324390888214111, UCB: 1.0093822479248047.
+Begin MAB selection.
+Start from epoch 95, select Dataset026_FeTS18flairED for joint training, selected 10 times.
+Info: loss: 0.5208859443664551, cos_sim: 0.7056208848953247, reward: 0.6497882008552551, UCB: 0.7524735927581787.
+Begin MAB selection.
+Start from epoch 96, select Dataset026_FeTS18flairED for joint training, selected 11 times.
+Info: loss: 0.3956947922706604, cos_sim: 0.7892833948135376, reward: 0.7752540707588196, UCB: 0.8727588653564453.
+Begin MAB selection.
+Start from epoch 97, select Dataset119_GflairWMH for joint training, selected 9 times.
+Info: loss: 0.7849587798118591, cos_sim: 0.7526281476020813, reward: 0.736591100692749, UCB: 0.845703125.
+Begin MAB selection.
+Start from epoch 98, select Dataset015_FeTS04flairNCR for joint training, selected 10 times.
+Info: loss: 0.7956127524375916, cos_sim: 0.5400071144104004, reward: 0.5363509058952332, UCB: 0.639314591884613.
+Begin MAB selection.
+Start from epoch 99, select Dataset020_FeTS04t1ceED for joint training, selected 4 times.
+Info: loss: 0.976941704750061, cos_sim: 0.9129519462585449, reward: 0.8446192741394043, UCB: 1.0231152772903442.
+Begin MAB selection.
+Start from epoch 100, select Dataset020_FeTS04t1ceED for joint training, selected 5 times.
+Info: loss: 0.9732896685600281, cos_sim: 0.9077368378639221, reward: 0.901340126991272, UCB: 1.0560574531555176.
+Begin MAB selection.
+Start from epoch 101, select Dataset002_FeTS01flairED for joint training, selected 18 times.
+Info: loss: 0.7244335412979126, cos_sim: 0.9693472385406494, reward: 0.9633585214614868, UCB: 1.0384725332260132.
+Begin MAB selection.
+Start from epoch 102, select Dataset014_FeTS04flairED for joint training, selected 9 times.
+Info: loss: 0.5610482096672058, cos_sim: 0.9333564043045044, reward: 0.9265960454940796, UCB: 1.0361864566802979.
+Begin MAB selection.
+Start from epoch 103, select Dataset024_FeTS04t2NCR for joint training, selected 3 times.
+Info: loss: 0.9371663928031921, cos_sim: 0.9010648727416992, reward: 0.8852531313896179, UCB: 1.1046199798583984.
+Begin MAB selection.
+Start from epoch 104, select Dataset014_FeTS04flairED for joint training, selected 10 times.
+Info: loss: 0.5417751669883728, cos_sim: 0.8448858857154846, reward: 0.8522989749908447, UCB: 0.955796480178833.
+Begin MAB selection.
+Start from epoch 105, select Dataset117_iSegt2GM for joint training, selected 4 times.
+Info: loss: 1.2380666732788086, cos_sim: 0.8785125017166138, reward: 0.8639377951622009, UCB: 1.043350100517273.
+Begin MAB selection.
+Start from epoch 106, select Dataset013_FeTS04flairET for joint training, selected 11 times.
+Info: loss: 0.7366717457771301, cos_sim: 0.539452850818634, reward: 0.5719094276428223, UCB: 0.670258641242981.
+Begin MAB selection.
+Start from epoch 107, select Dataset119_GflairWMH for joint training, selected 10 times.
+Info: loss: 0.8557938933372498, cos_sim: 0.8779993653297424, reward: 0.8311007022857666, UCB: 0.9348545670509338.
+Begin MAB selection.
+Start from epoch 108, select Dataset119_GflairWMH for joint training, selected 11 times.
+Info: loss: 0.7267305254936218, cos_sim: 0.5956612825393677, reward: 0.6191784143447876, UCB: 0.7176876068115234.
+Begin MAB selection.
+Start from epoch 109, select Dataset013_FeTS04flairET for joint training, selected 12 times.
+Info: loss: 0.7664403319358826, cos_sim: 0.9324795603752136, reward: 0.8553468585014343, UCB: 0.9493469595909119.
+Begin MAB selection.
+Start from epoch 110, select Dataset026_FeTS18flairED for joint training, selected 12 times.
+Info: loss: 0.3540695607662201, cos_sim: 0.9533355236053467, reward: 0.9429396390914917, UCB: 1.037014365196228.
+Begin MAB selection.
+Start from epoch 111, select Dataset002_FeTS01flairED for joint training, selected 19 times.
+Info: loss: 0.7281803488731384, cos_sim: 0.9732722043991089, reward: 0.967440128326416, UCB: 1.0410395860671997.
+Begin MAB selection.
+Start from epoch 112, select Dataset017_FeTS04t1ED for joint training, selected 4 times.
+Info: loss: 0.9544485211372375, cos_sim: 0.8777064085006714, reward: 0.8625080585479736, UCB: 1.0429298877716064.
+Begin MAB selection.
+Start from epoch 113, select Dataset013_FeTS04flairET for joint training, selected 13 times.
+Info: loss: 0.7025097608566284, cos_sim: 0.8911169171333313, reward: 0.8939827680587769, UCB: 0.9842633605003357.
+Begin MAB selection.
+Start from epoch 114, select Dataset013_FeTS04flairET for joint training, selected 14 times.
+Info: loss: 0.6985979080200195, cos_sim: 0.86012202501297, reward: 0.8634907007217407, UCB: 0.9502958655357361.
+Begin MAB selection.
+Start from epoch 115, select Dataset013_FeTS04flairET for joint training, selected 15 times.
+Info: loss: 0.6786000728607178, cos_sim: 0.7378435134887695, reward: 0.7503939270973206, UCB: 0.8341049551963806.
+Begin MAB selection.
+Start from epoch 116, select Dataset002_FeTS01flairED for joint training, selected 20 times.
+Info: loss: 0.5868401527404785, cos_sim: 0.5548937320709229, reward: 0.49586525559425354, UCB: 0.5677764415740967.
+Begin MAB selection.
+Start from epoch 117, select Dataset023_FeTS04t2ED for joint training, selected 3 times.
+Info: loss: 0.942055344581604, cos_sim: 0.669376790523529, reward: 0.5785213112831116, UCB: 0.8003315925598145.
+Begin MAB selection.
+Start from epoch 118, select Dataset014_FeTS04flairED for joint training, selected 11 times.
+Info: loss: 0.62937331199646, cos_sim: 0.6890314817428589, reward: 0.6806444525718689, UCB: 0.7799143195152283.
+Begin MAB selection.
+Start from epoch 119, select Dataset021_FeTS04t1ceNCR for joint training, selected 5 times.
+Info: loss: 1.0204508304595947, cos_sim: 0.93486487865448, reward: 0.886143684387207, UCB: 1.0432181358337402.
+Begin MAB selection.
+Start from epoch 120, select Dataset021_FeTS04t1ceNCR for joint training, selected 6 times.
+Info: loss: 1.0069688558578491, cos_sim: 0.9475075602531433, reward: 0.9413591623306274, UCB: 1.0819528102874756.
+Begin MAB selection.
+Start from epoch 121, select Dataset016_FeTS04t1ET for joint training, selected 3 times.
+Info: loss: 0.9813970923423767, cos_sim: 0.8596888184547424, reward: 0.858622670173645, UCB: 1.0810807943344116.
+Begin MAB selection.
+Start from epoch 122, select Dataset121_UflairWMH for joint training, selected 14 times.
+Info: loss: 0.5500960350036621, cos_sim: 0.07846134901046753, reward: 0.16285079717636108, UCB: 0.2501683235168457.
+Begin MAB selection.
+Start from epoch 123, select Dataset118_iSegt2WM for joint training, selected 5 times.
+Info: loss: 1.166899561882019, cos_sim: 0.849249541759491, reward: 0.7648630142211914, UCB: 0.9223883152008057.
+Begin MAB selection.
+Start from epoch 124, select Dataset023_FeTS04t2ED for joint training, selected 4 times.
+Info: loss: 0.7405099868774414, cos_sim: 0.3590872883796692, reward: 0.32124075293540955, UCB: 0.503262996673584.
+Begin MAB selection.
+Start from epoch 125, select Dataset019_FeTS04t1ceET for joint training, selected 8 times.
+Info: loss: 0.572790801525116, cos_sim: 0.907235860824585, reward: 0.825171947479248, UCB: 0.9444164037704468.
+Begin MAB selection.
+Start from epoch 126, select Dataset119_GflairWMH for joint training, selected 12 times.
+Info: loss: 0.6737896203994751, cos_sim: 0.8475986123085022, reward: 0.8447800874710083, UCB: 0.9399698972702026.
+Begin MAB selection.
+Start from epoch 127, select Dataset121_UflairWMH for joint training, selected 15 times.
+Info: loss: 0.6585679054260254, cos_sim: 0.706588089466095, reward: 0.7179749608039856, UCB: 0.8024094700813293.
+Begin MAB selection.
+Start from epoch 128, select Dataset113_iSegt1CSF for joint training, selected 2 times.
+Info: loss: 1.08993399143219, cos_sim: 0.6570742726325989, reward: 0.6332125067710876, UCB: 0.9493521451950073.
+Begin MAB selection.
+Start from epoch 129, select Dataset118_iSegt2WM for joint training, selected 6 times.
+Info: loss: 1.1005429029464722, cos_sim: 0.750563383102417, reward: 0.7449184656143188, UCB: 0.8863956332206726.
+Begin MAB selection.
+Start from epoch 130, select Dataset016_FeTS04t1ET for joint training, selected 4 times.
+Info: loss: 0.9732622504234314, cos_sim: 0.8248717784881592, reward: 0.7646923065185547, UCB: 0.9474605321884155.
+Begin MAB selection.
+Start from epoch 131, select Dataset119_GflairWMH for joint training, selected 13 times.
+Info: loss: 0.6894487738609314, cos_sim: 0.9013583660125732, reward: 0.8920760750770569, UCB: 0.9835207462310791.
+Begin MAB selection.
+Start from epoch 132, select Dataset119_GflairWMH for joint training, selected 14 times.
+Info: loss: 0.6252802014350891, cos_sim: 0.9301957488059998, reward: 0.9263808727264404, UCB: 1.0142958164215088.
+Begin MAB selection.
+Start from epoch 133, select Dataset026_FeTS18flairED for joint training, selected 13 times.
+Info: loss: 0.377987802028656, cos_sim: 0.874671995639801, reward: 0.8722132444381714, UCB: 0.9637777805328369.
+Begin MAB selection.
+Start from epoch 134, select Dataset002_FeTS01flairED for joint training, selected 21 times.
+Info: loss: 0.4576658606529236, cos_sim: 0.6429833173751831, reward: 0.6362395882606506, UCB: 0.7072110772132874.
+Begin MAB selection.
+Start from epoch 135, select Dataset014_FeTS04flairED for joint training, selected 12 times.
+Info: loss: 0.5062347650527954, cos_sim: 0.9646415114402771, reward: 0.928328275680542, UCB: 1.02408766746521.
+Begin MAB selection.
+Start from epoch 136, select Dataset018_FeTS04t1NCR for joint training, selected 4 times.
+Info: loss: 1.0500601530075073, cos_sim: 0.9361124634742737, reward: 0.9245145916938782, UCB: 1.1079967021942139.
+Begin MAB selection.
+Start from epoch 137, select Dataset018_FeTS04t1NCR for joint training, selected 5 times.
+Info: loss: 1.0302788019180298, cos_sim: 0.9264259338378906, reward: 0.926232635974884, UCB: 1.0852333307266235.
+Begin MAB selection.
+Start from epoch 138, select Dataset024_FeTS04t2NCR for joint training, selected 4 times.
+Info: loss: 0.878358781337738, cos_sim: 0.8519963622093201, reward: 0.8559591770172119, UCB: 1.039672613143921.
+Begin MAB selection.
+Start from epoch 139, select Dataset019_FeTS04t1ceET for joint training, selected 9 times.
+Info: loss: 0.49314337968826294, cos_sim: 0.6462898254394531, reward: 0.672180712223053, UCB: 0.784751832485199.
+Begin MAB selection.
+Start from epoch 140, select Dataset026_FeTS18flairED for joint training, selected 14 times.
+Info: loss: 0.3412904441356659, cos_sim: 0.9452633857727051, reward: 0.8954861164093018, UCB: 0.9838487505912781.
+Begin MAB selection.
+Start from epoch 141, select Dataset020_FeTS04t1ceED for joint training, selected 6 times.
+Info: loss: 0.9937238097190857, cos_sim: 0.9358863234519958, reward: 0.9126921892166138, UCB: 1.055260181427002.
+Begin MAB selection.
+Start from epoch 142, select Dataset020_FeTS04t1ceED for joint training, selected 7 times.
+Info: loss: 0.9814861416816711, cos_sim: 0.924144983291626, reward: 0.9229983687400818, UCB: 1.053223729133606.
+Begin MAB selection.
+Start from epoch 143, select Dataset002_FeTS01flairED for joint training, selected 22 times.
+Info: loss: 0.5409156084060669, cos_sim: 0.8888041377067566, reward: 0.8963785767555237, UCB: 0.9660290479660034.
+Begin MAB selection.
+Start from epoch 144, select Dataset015_FeTS04flairNCR for joint training, selected 11 times.
+Info: loss: 0.8602272272109985, cos_sim: 0.9177696704864502, reward: 0.8849182724952698, UCB: 0.985912024974823.
+Begin MAB selection.
+Start from epoch 145, select Dataset015_FeTS04flairNCR for joint training, selected 12 times.
+Info: loss: 0.8104719519615173, cos_sim: 0.8041884899139404, reward: 0.812260627746582, UCB: 0.9086117744445801.
+Begin MAB selection.
+Start from epoch 146, select Dataset021_FeTS04t1ceNCR for joint training, selected 7 times.
+Info: loss: 0.9620742201805115, cos_sim: 0.20040127635002136, reward: 0.24786055088043213, UCB: 0.37839776277542114.
+Begin MAB selection.
+Start from epoch 147, select Dataset115_iSegt1WM for joint training, selected 5 times.
+Info: loss: 1.1111528873443604, cos_sim: 0.5054706335067749, reward: 0.467166930437088, UCB: 0.6271355748176575.
+Begin MAB selection.
+Start from epoch 148, select Dataset022_FeTS04t2ET for joint training, selected 3 times.
+Info: loss: 0.9788249135017395, cos_sim: 0.8056998252868652, reward: 0.7149882316589355, UCB: 0.941349983215332.
+Begin MAB selection.
+Start from epoch 149, select Dataset015_FeTS04flairNCR for joint training, selected 13 times.
+Info: loss: 0.9033975601196289, cos_sim: 0.9660565853118896, reward: 0.954002857208252, UCB: 1.0464681386947632.
+Begin MAB selection.
+Start from epoch 150, select Dataset021_FeTS04t1ceNCR for joint training, selected 8 times.
+Info: loss: 1.0026720762252808, cos_sim: 0.9375810027122498, reward: 0.9362982511520386, UCB: 1.0574333667755127.
+Begin MAB selection.
+Start from epoch 151, select Dataset015_FeTS04flairNCR for joint training, selected 14 times.
+Info: loss: 0.8095934987068176, cos_sim: 0.9542484283447266, reward: 0.9550558924674988, UCB: 1.0439954996109009.
+Begin MAB selection.
+Start from epoch 152, select Dataset013_FeTS04flairET for joint training, selected 16 times.
+Info: loss: 0.7135977745056152, cos_sim: 0.6188119649887085, reward: 0.6520088315010071, UCB: 0.7348540425300598.
+Begin MAB selection.
+Start from epoch 153, select Dataset002_FeTS01flairED for joint training, selected 23 times.
+Info: loss: 0.7439759969711304, cos_sim: 0.9452283382415771, reward: 0.9109640121459961, UCB: 0.9794096946716309.
+Begin MAB selection.
+Start from epoch 154, select Dataset022_FeTS04t2ET for joint training, selected 4 times.
+Info: loss: 0.9007865190505981, cos_sim: 0.4884425699710846, reward: 0.4855905771255493, UCB: 0.6710459589958191.
+Begin MAB selection.
+Start from epoch 155, select Dataset002_FeTS01flairED for joint training, selected 24 times.
+Info: loss: 0.8775910139083862, cos_sim: 0.9631308317184448, reward: 0.8825643062591553, UCB: 0.9495801329612732.
+Begin MAB selection.
+Start from epoch 156, select Dataset020_FeTS04t1ceED for joint training, selected 8 times.
+Info: loss: 0.9609772562980652, cos_sim: 0.6578006148338318, reward: 0.6638414263725281, UCB: 0.7853848934173584.
+Begin MAB selection.
+Start from epoch 157, select Dataset013_FeTS04flairET for joint training, selected 17 times.
+Info: loss: 0.7747417688369751, cos_sim: 0.7523462176322937, reward: 0.7382111549377441, UCB: 0.818648636341095.
+Begin MAB selection.
+Start from epoch 158, select Dataset121_UflairWMH for joint training, selected 16 times.
+Info: loss: 0.644187867641449, cos_sim: 0.8244894742965698, reward: 0.8118391036987305, UCB: 0.8949597477912903.
+Begin MAB selection.
+Start from epoch 159, select Dataset121_UflairWMH for joint training, selected 17 times.
+Info: loss: 0.6139888763427734, cos_sim: 0.7777674198150635, reward: 0.7811744213104248, UCB: 0.8616991639137268.
+Begin MAB selection.
+Start from epoch 160, select Dataset121_UflairWMH for joint training, selected 18 times.
+Info: loss: 0.5617934465408325, cos_sim: 0.6135284900665283, reward: 0.6302929520606995, UCB: 0.7084553241729736.
+Begin MAB selection.
+Start from epoch 161, select Dataset002_FeTS01flairED for joint training, selected 25 times.
+Info: loss: 0.7068203687667847, cos_sim: 0.9034032821655273, reward: 0.8737319111824036, UCB: 0.9395504593849182.
+Begin MAB selection.
+Start from epoch 162, select Dataset014_FeTS04flairED for joint training, selected 13 times.
+Info: loss: 0.582317054271698, cos_sim: 0.8645386099815369, reward: 0.8596915602684021, UCB: 0.9528223276138306.
+Begin MAB selection.
+Start from epoch 163, select Dataset002_FeTS01flairED for joint training, selected 26 times.
+Info: loss: 0.73480623960495, cos_sim: 0.9262657165527344, reward: 0.9208998680114746, UCB: 0.9854567050933838.
+Begin MAB selection.
+Start from epoch 164, select Dataset119_GflairWMH for joint training, selected 15 times.
+Info: loss: 0.6949615478515625, cos_sim: 0.7703256011009216, reward: 0.7452999949455261, UCB: 0.8316128253936768.
+Begin MAB selection.
+Start from epoch 165, select Dataset026_FeTS18flairED for joint training, selected 15 times.
+Info: loss: 0.3696424961090088, cos_sim: 0.9379854798316956, reward: 0.9008463025093079, UCB: 0.9872040152549744.
+Begin MAB selection.
+Start from epoch 166, select Dataset013_FeTS04flairET for joint training, selected 18 times.
+Info: loss: 0.8267594575881958, cos_sim: 0.963543713092804, reward: 0.948525607585907, UCB: 1.0269343852996826.
+Begin MAB selection.
+Start from epoch 167, select Dataset013_FeTS04flairET for joint training, selected 19 times.
+Info: loss: 0.7539414763450623, cos_sim: 0.9536780118942261, reward: 0.953162670135498, UCB: 1.029401421546936.
+Begin MAB selection.
+Start from epoch 168, select Dataset015_FeTS04flairNCR for joint training, selected 15 times.
+Info: loss: 0.7401966452598572, cos_sim: 0.6879462003707886, reward: 0.6801739931106567, UCB: 0.7666646242141724.
+Begin MAB selection.
+Start from epoch 169, select Dataset015_FeTS04flairNCR for joint training, selected 16 times.
+Info: loss: 0.7307546734809875, cos_sim: 0.85905522108078, reward: 0.8411669731140137, UCB: 0.9247671961784363.
+Begin MAB selection.
+Start from epoch 170, select Dataset015_FeTS04flairNCR for joint training, selected 17 times.
+Info: loss: 0.7012119293212891, cos_sim: 0.7017106413841248, reward: 0.7156561613082886, UCB: 0.7966424822807312.
+Begin MAB selection.
+Start from epoch 171, select Dataset121_UflairWMH for joint training, selected 19 times.
+Info: loss: 0.6441987156867981, cos_sim: 0.8540091514587402, reward: 0.728352427482605, UCB: 0.8047451972961426.
+Begin MAB selection.
+Start from epoch 172, select Dataset002_FeTS01flairED for joint training, selected 27 times.
+Info: loss: 0.6074851155281067, cos_sim: 0.8799477815628052, reward: 0.8626733422279358, UCB: 0.9262675642967224.
+Begin MAB selection.
+Start from epoch 173, select Dataset002_FeTS01flairED for joint training, selected 28 times.
+Info: loss: 0.45379266142845154, cos_sim: 0.301195353269577, reward: 0.35734307765960693, UCB: 0.41977936029434204.
+Begin MAB selection.
+Start from epoch 174, select Dataset021_FeTS04t1ceNCR for joint training, selected 9 times.
+Info: loss: 0.9811305403709412, cos_sim: 0.7579883337020874, reward: 0.6726914048194885, UCB: 0.7874504923820496.
+Begin MAB selection.
+Start from epoch 175, select Dataset119_GflairWMH for joint training, selected 16 times.
+Info: loss: 0.6815344095230103, cos_sim: 0.6666709184646606, reward: 0.6203460693359375, UCB: 0.7041951417922974.
+Begin MAB selection.
+Start from epoch 176, select Dataset002_FeTS01flairED for joint training, selected 29 times.
+Info: loss: 0.5300068855285645, cos_sim: 0.9365698099136353, reward: 0.8501250743865967, UCB: 0.911526083946228.
+Begin MAB selection.
+Start from epoch 177, select Dataset014_FeTS04flairED for joint training, selected 14 times.
+Info: loss: 0.7473759651184082, cos_sim: 0.9042115807533264, reward: 0.8469496369361877, UCB: 0.9371050596237183.
+Begin MAB selection.
+Start from epoch 178, select Dataset119_GflairWMH for joint training, selected 17 times.
+Info: loss: 0.586262583732605, cos_sim: 0.8716588020324707, reward: 0.8656156063079834, UCB: 0.9469195604324341.
+Begin MAB selection.
+Start from epoch 179, select Dataset115_iSegt1WM for joint training, selected 6 times.
+Info: loss: 1.2398698329925537, cos_sim: 0.7510904669761658, reward: 0.7395364046096802, UCB: 0.8850466012954712.
+Begin MAB selection.
+Start from epoch 180, select Dataset121_UflairWMH for joint training, selected 20 times.
+Info: loss: 0.4689559042453766, cos_sim: 0.48246538639068604, reward: 0.4974932074546814, UCB: 0.5721737146377563.
+Begin MAB selection.
+Start from epoch 181, select Dataset026_FeTS18flairED for joint training, selected 16 times.
+Info: loss: 0.39100733399391174, cos_sim: 0.3822771906852722, reward: 0.377360075712204, UCB: 0.4614497423171997.
+Begin MAB selection.
+Start from epoch 182, select Dataset119_GflairWMH for joint training, selected 18 times.
+Info: loss: 0.6555604934692383, cos_sim: 0.481670081615448, reward: 0.42179107666015625, UCB: 0.5008165240287781.
+Begin MAB selection.
+Start from epoch 183, select Dataset023_FeTS04t2ED for joint training, selected 5 times.
+Info: loss: 0.7893637418746948, cos_sim: 0.8734692335128784, reward: 0.797793447971344, UCB: 0.9607843160629272.
+Begin MAB selection.
+Start from epoch 184, select Dataset013_FeTS04flairET for joint training, selected 20 times.
+Info: loss: 0.8687325716018677, cos_sim: 0.9311708211898804, reward: 0.9261325001716614, UCB: 1.0009524822235107.
+Begin MAB selection.
+Start from epoch 185, select Dataset002_FeTS01flairED for joint training, selected 30 times.
+Info: loss: 0.6600433588027954, cos_sim: 0.935516893863678, reward: 0.9270426034927368, UCB: 0.9876317381858826.
+Begin MAB selection.
+Start from epoch 186, select Dataset014_FeTS04flairED for joint training, selected 15 times.
+Info: loss: 0.5170807838439941, cos_sim: 0.5218656063079834, reward: 0.5370927453041077, UCB: 0.6243352293968201.
+Begin MAB selection.
+Start from epoch 187, select Dataset002_FeTS01flairED for joint training, selected 31 times.
+Info: loss: 0.6591008901596069, cos_sim: 0.41661107540130615, reward: 0.37439194321632385, UCB: 0.43401700258255005.
+Begin MAB selection.
+Start from epoch 188, select Dataset016_FeTS04t1ET for joint training, selected 5 times.
+Info: loss: 1.125545859336853, cos_sim: 0.955987274646759, reward: 0.8648305535316467, UCB: 1.0281941890716553.
+Begin MAB selection.
+Start from epoch 189, select Dataset118_iSegt2WM for joint training, selected 7 times.
+Info: loss: 1.2184183597564697, cos_sim: 0.6030359268188477, reward: 0.46697819232940674, UCB: 0.6004239916801453.
+Begin MAB selection.
+Start from epoch 190, select Dataset019_FeTS04t1ceET for joint training, selected 10 times.
+Info: loss: 0.7008714079856873, cos_sim: 0.8633198738098145, reward: 0.7574084997177124, UCB: 0.8664152026176453.
+Begin MAB selection.
+Start from epoch 191, select Dataset119_GflairWMH for joint training, selected 19 times.
+Info: loss: 0.6940447688102722, cos_sim: 0.8618155717849731, reward: 0.8514365553855896, UCB: 0.9285501837730408.
+Begin MAB selection.
+Start from epoch 192, select Dataset013_FeTS04flairET for joint training, selected 21 times.
+Info: loss: 0.7834331393241882, cos_sim: 0.9448336362838745, reward: 0.8425382375717163, UCB: 0.9157269597053528.
+Begin MAB selection.
+Start from epoch 193, select Dataset013_FeTS04flairET for joint training, selected 22 times.
+Info: loss: 0.7831127047538757, cos_sim: 0.9549238681793213, reward: 0.9436852931976318, UCB: 1.015141487121582.
+Begin MAB selection.
+Start from epoch 194, select Dataset015_FeTS04flairNCR for joint training, selected 18 times.
+Info: loss: 0.7952913045883179, cos_sim: 0.6418231725692749, reward: 0.6645810604095459, UCB: 0.7440348863601685.
+Begin MAB selection.
+Start from epoch 195, select Dataset026_FeTS18flairED for joint training, selected 17 times.
+Info: loss: 0.40791746973991394, cos_sim: 0.7831069827079773, reward: 0.7647300958633423, UCB: 0.8466647863388062.
+Begin MAB selection.
+Start from epoch 196, select Dataset026_FeTS18flairED for joint training, selected 18 times.
+Info: loss: 0.3737649917602539, cos_sim: 0.6456708312034607, reward: 0.6575767397880554, UCB: 0.7370994091033936.
+Begin MAB selection.
+Start from epoch 197, select Dataset015_FeTS04flairNCR for joint training, selected 19 times.
+Info: loss: 0.7394056916236877, cos_sim: 0.8378557562828064, reward: 0.8132060766220093, UCB: 0.8905214071273804.
+Begin MAB selection.
+Start from epoch 198, select Dataset019_FeTS04t1ceET for joint training, selected 11 times.
+Info: loss: 0.6148219108581543, cos_sim: 0.7963902950286865, reward: 0.7949835062026978, UCB: 0.8987572193145752.
+Begin MAB selection.
+Start from epoch 199, select Dataset119_GflairWMH for joint training, selected 20 times.
+Info: loss: 0.6299368143081665, cos_sim: 0.6734780669212341, reward: 0.6858848333358765, UCB: 0.7612022161483765.
+Begin MAB selection.
+Start from epoch 200, select Dataset002_FeTS01flairED for joint training, selected 32 times.
+Info: loss: 0.5487996339797974, cos_sim: 0.9407261610031128, reward: 0.8190369009971619, UCB: 0.8780263662338257.
+Begin MAB selection.
+Start from epoch 201, select Dataset115_iSegt1WM for joint training, selected 7 times.
+Info: loss: 1.149742841720581, cos_sim: 0.8288347125053406, reward: 0.8142380714416504, UCB: 0.9483793377876282.
+Begin MAB selection.
+Start from epoch 202, select Dataset002_FeTS01flairED for joint training, selected 33 times.
+Info: loss: 0.4423812925815582, cos_sim: 0.4037019610404968, reward: 0.45154181122779846, UCB: 0.5096509456634521.
+Begin MAB selection.
+Start from epoch 203, select Dataset019_FeTS04t1ceET for joint training, selected 12 times.
+Info: loss: 0.6318380236625671, cos_sim: 0.5131688714027405, reward: 0.46292340755462646, UCB: 0.5620759129524231.
+Begin MAB selection.
+Start from epoch 204, select Dataset002_FeTS01flairED for joint training, selected 34 times.
+Info: loss: 0.5196554660797119, cos_sim: 0.7839104533195496, reward: 0.7373773455619812, UCB: 0.7946467399597168.
+Begin MAB selection.
+Start from epoch 205, select Dataset115_iSegt1WM for joint training, selected 8 times.
+Info: loss: 1.1915889978408813, cos_sim: 0.8410203456878662, reward: 0.8214238882064819, UCB: 0.9458207488059998.
+Begin MAB selection.
+Start from epoch 206, select Dataset115_iSegt1WM for joint training, selected 9 times.
+Info: loss: 1.1327556371688843, cos_sim: 0.8589211106300354, reward: 0.8551713824272156, UCB: 0.9715815782546997.
+Begin MAB selection.
+Start from epoch 207, select Dataset014_FeTS04flairED for joint training, selected 16 times.
+Info: loss: 0.6953800320625305, cos_sim: 0.8463050127029419, reward: 0.7792686820030212, UCB: 0.8643172979354858.
+Begin MAB selection.
+Start from epoch 208, select Dataset121_UflairWMH for joint training, selected 21 times.
+Info: loss: 0.6234716176986694, cos_sim: 0.7378768920898438, reward: 0.5971680283546448, UCB: 0.6708521246910095.
+Begin MAB selection.
+Start from epoch 209, select Dataset119_GflairWMH for joint training, selected 21 times.
+Info: loss: 0.6210921406745911, cos_sim: 0.7008605003356934, reward: 0.6880892515182495, UCB: 0.7618030309677124.
+Begin MAB selection.
+Start from epoch 210, select Dataset013_FeTS04flairET for joint training, selected 23 times.
+Info: loss: 0.7758985757827759, cos_sim: 0.9088200330734253, reward: 0.8669773936271667, UCB: 0.9372888803482056.
+Begin MAB selection.
+Start from epoch 211, select Dataset013_FeTS04flairET for joint training, selected 24 times.
+Info: loss: 0.7711676955223083, cos_sim: 0.9365659952163696, reward: 0.9296071529388428, UCB: 0.9984005689620972.
+Begin MAB selection.
+Begin MAB selection.
+Start from epoch 212, select Dataset024_FeTS04t2NCR for joint training, selected 2 times.
+Info: loss: 0.9743534922599792, cos_sim: 0.29835110902786255, reward: 0.26851600408554077, UCB: 0.5985686779022217.
+Begin MAB selection.
+Start from epoch 213, select Dataset002_FeTS01flairED for joint training, selected 2 times.
+Info: loss: 0.7617865800857544, cos_sim: 0.9609552621841431, reward: 0.8409469127655029, UCB: 1.171129822731018.
+Begin MAB selection.
+Start from epoch 214, select Dataset013_FeTS04flairET for joint training, selected 2 times.
+Info: loss: 0.870398223400116, cos_sim: 0.9669586420059204, reward: 0.9417421221733093, UCB: 1.272054672241211.
+Begin MAB selection.
+Start from epoch 215, select Dataset015_FeTS04flairNCR for joint training, selected 2 times.
+Info: loss: 0.9069797396659851, cos_sim: 0.9544787406921387, reward: 0.9493744373321533, UCB: 1.2798161506652832.
+Begin MAB selection.
+Start from epoch 216, select Dataset014_FeTS04flairED for joint training, selected 2 times.
+Info: loss: 0.5847123265266418, cos_sim: 0.9532490968704224, reward: 0.9522982239723206, UCB: 1.2828683853149414.
+Begin MAB selection.
+Start from epoch 217, select Dataset119_GflairWMH for joint training, selected 2 times.
+Info: loss: 0.8254303336143494, cos_sim: 0.7881092429161072, reward: 0.8020291328430176, UCB: 1.1327271461486816.
+Begin MAB selection.
+Start from epoch 218, select Dataset013_FeTS04flairET for joint training, selected 3 times.
+Info: loss: 0.6918400526046753, cos_sim: 0.8621970415115356, reward: 0.8610635995864868, UCB: 1.0949923992156982.
+Begin MAB selection.
+Start from epoch 219, select Dataset002_FeTS01flairED for joint training, selected 3 times.
+Info: loss: 0.7604297995567322, cos_sim: 0.9819562435150146, reward: 0.9586875438690186, UCB: 1.1927059888839722.
+Begin MAB selection.
+Start from epoch 220, select Dataset026_FeTS18flairED for joint training, selected 2 times.
+Info: loss: 0.3329172432422638, cos_sim: 0.9044606685638428, reward: 0.8542432188987732, UCB: 1.1853214502334595.
+Begin MAB selection.
+Start from epoch 221, select Dataset121_UflairWMH for joint training, selected 2 times.
+Info: loss: 0.5674136281013489, cos_sim: 0.8864063024520874, reward: 0.8830604553222656, UCB: 1.214264154434204.
+Begin MAB selection.
+Start from epoch 222, select Dataset014_FeTS04flairED for joint training, selected 3 times.
+Info: loss: 0.6806163191795349, cos_sim: 0.8898221850395203, reward: 0.8872361183166504, UCB: 1.12152099609375.
+Begin MAB selection.
+Start from epoch 223, select Dataset118_iSegt2WM for joint training, selected 2 times.
+Info: loss: 1.1985975503921509, cos_sim: 0.8144489526748657, reward: 0.8107364773750305, UCB: 1.1421897411346436.
+Begin MAB selection.
+Start from epoch 224, select Dataset121_UflairWMH for joint training, selected 3 times.
+Info: loss: 0.4930357038974762, cos_sim: 0.6505281329154968, reward: 0.6704386472702026, UCB: 0.9048990607261658.
+Begin MAB selection.
+Start from epoch 225, select Dataset019_FeTS04t1ceET for joint training, selected 2 times.
+Info: loss: 0.6477702260017395, cos_sim: 0.1279222071170807, reward: 0.1689559370279312, UCB: 0.5006563663482666.
+Begin MAB selection.
+Start from epoch 226, select Dataset115_iSegt1WM for joint training, selected 2 times.
+Info: loss: 1.1245378255844116, cos_sim: 0.8491601943969727, reward: 0.7558761239051819, UCB: 1.087699294090271.
+Begin MAB selection.
+Start from epoch 227, select Dataset020_FeTS04t1ceED for joint training, selected 2 times.
+Info: loss: 0.9442364573478699, cos_sim: 0.7628300786018372, reward: 0.7496500015258789, UCB: 1.0815954208374023.
+Begin MAB selection.
+Start from epoch 228, select Dataset117_iSegt2GM for joint training, selected 2 times.
+Info: loss: 1.2763398885726929, cos_sim: 0.7481224536895752, reward: 0.7446421980857849, UCB: 1.076709270477295.
+Begin MAB selection.
+Start from epoch 229, select Dataset119_GflairWMH for joint training, selected 3 times.
+Info: loss: 0.564227819442749, cos_sim: 0.768307626247406, reward: 0.6560283303260803, UCB: 0.8909209370613098.
+Begin MAB selection.
+Start from epoch 230, select Dataset026_FeTS18flairED for joint training, selected 3 times.
+Info: loss: 0.36316999793052673, cos_sim: 0.7307344079017639, reward: 0.6946625709533691, UCB: 0.9296404719352722.
+Begin MAB selection.
+Start from epoch 231, select Dataset026_FeTS18flairED for joint training, selected 4 times.
+Info: loss: 0.35773545503616333, cos_sim: 0.8982216119766235, reward: 0.8778656721115112, UCB: 1.069793701171875.
+Begin MAB selection.
+Start from epoch 232, select Dataset115_iSegt1WM for joint training, selected 3 times.
+Info: loss: 1.010915994644165, cos_sim: 0.7240468263626099, reward: 0.7061490416526794, UCB: 0.9412964582443237.
+Begin MAB selection.
+Start from epoch 233, select Dataset119_GflairWMH for joint training, selected 4 times.
+Info: loss: 0.5798539519309998, cos_sim: 0.4856249690055847, reward: 0.4150030314922333, UCB: 0.6070687770843506.
+Begin MAB selection.
+Start from epoch 234, select Dataset119_GflairWMH for joint training, selected 5 times.
+Info: loss: 0.5179773569107056, cos_sim: 0.7116068601608276, reward: 0.6819465160369873, UCB: 0.8483396172523499.
+Begin MAB selection.
+Start from epoch 235, select Dataset119_GflairWMH for joint training, selected 6 times.
+Info: loss: 0.48062506318092346, cos_sim: 0.5988810062408447, reward: 0.6071875095367432, UCB: 0.7560668587684631.
+Begin MAB selection.
+Start from epoch 236, select Dataset002_FeTS01flairED for joint training, selected 4 times.
+Info: loss: 0.5729548931121826, cos_sim: 0.9367928504943848, reward: 0.8301353454589844, UCB: 1.0224056243896484.
+Begin MAB selection.
+Start from epoch 237, select Dataset118_iSegt2WM for joint training, selected 3 times.
+Info: loss: 1.1018037796020508, cos_sim: 0.5913959741592407, reward: 0.605731725692749, UCB: 0.8412964940071106.
+Begin MAB selection.
+Start from epoch 238, select Dataset019_FeTS04t1ceET for joint training, selected 3 times.
+Info: loss: 0.5875989198684692, cos_sim: 0.5337177515029907, reward: 0.4596112370491028, UCB: 0.6952584385871887.
+Begin MAB selection.
+Start from epoch 239, select Dataset014_FeTS04flairED for joint training, selected 4 times.
+Info: loss: 0.530154824256897, cos_sim: 0.7025559544563293, reward: 0.5959154963493347, UCB: 0.788387656211853.
+Begin MAB selection.
+Start from epoch 240, select Dataset121_UflairWMH for joint training, selected 4 times.
+Info: loss: 0.5273531079292297, cos_sim: 0.4027767777442932, reward: 0.3394341468811035, UCB: 0.5319730043411255.
+Begin MAB selection.
+Start from epoch 241, select Dataset002_FeTS01flairED for joint training, selected 5 times.
+Info: loss: 0.5751615762710571, cos_sim: 0.8898706436157227, reward: 0.8233252763748169, UCB: 0.990126371383667.
+Begin MAB selection.
+Start from epoch 242, select Dataset002_FeTS01flairED for joint training, selected 6 times.
+Info: loss: 0.5154534578323364, cos_sim: 0.8093713521957397, reward: 0.8107667565345764, UCB: 0.9600094556808472.
+Begin MAB selection.
+Start from epoch 243, select Dataset117_iSegt2GM for joint training, selected 3 times.
+Info: loss: 1.305895447731018, cos_sim: 0.7927693128585815, reward: 0.7855080962181091, UCB: 1.0215622186660767.
+Begin MAB selection.
+Start from epoch 244, select Dataset014_FeTS04flairED for joint training, selected 5 times.
+Info: loss: 0.658015251159668, cos_sim: 0.8675357103347778, reward: 0.8076770305633545, UCB: 0.9746493101119995.
+Begin MAB selection.
+Start from epoch 245, select Dataset115_iSegt1WM for joint training, selected 4 times.
+Info: loss: 0.9732060432434082, cos_sim: 0.8472917675971985, reward: 0.8379176259040833, UCB: 1.0307860374450684.
+Begin MAB selection.
+Start from epoch 246, select Dataset115_iSegt1WM for joint training, selected 5 times.
+Info: loss: 0.8580402731895447, cos_sim: 0.747390866279602, reward: 0.7564435005187988, UCB: 0.9235287308692932.
+Begin MAB selection.
+Start from epoch 247, select Dataset014_FeTS04flairED for joint training, selected 6 times.
+Info: loss: 0.6347769498825073, cos_sim: 0.8330380916595459, reward: 0.8054538369178772, UCB: 0.9549496173858643.
+Begin MAB selection.
+Start from epoch 248, select Dataset113_iSegt1CSF for joint training, selected 2 times.
+Info: loss: 1.1398851871490479, cos_sim: 0.7883614897727966, reward: 0.7503719329833984, UCB: 1.0847665071487427.
+Begin MAB selection.
+Start from epoch 249, select Dataset118_iSegt2WM for joint training, selected 4 times.
+Info: loss: 0.9944742321968079, cos_sim: 0.8860422372817993, reward: 0.8846140503883362, UCB: 1.0777411460876465.
+Begin MAB selection.
+Start from epoch 250, select Dataset017_FeTS04t1ED for joint training, selected 2 times.
+Info: loss: 0.9918361902236938, cos_sim: 0.5733320116996765, reward: 0.5801193118095398, UCB: 0.9147361516952515.
+Begin MAB selection.
+Start from epoch 251, select Dataset117_iSegt2GM for joint training, selected 4 times.
+Info: loss: 1.1598070859909058, cos_sim: 0.8832297325134277, reward: 0.866750955581665, UCB: 1.0600059032440186.
+Begin MAB selection.
+Start from epoch 252, select Dataset020_FeTS04t1ceED for joint training, selected 3 times.
+Info: loss: 0.9262155890464783, cos_sim: 0.5232601761817932, reward: 0.5513395071029663, UCB: 0.7881052494049072.
+Begin MAB selection.
+Start from epoch 253, select Dataset121_UflairWMH for joint training, selected 5 times.
+Info: loss: 0.589651882648468, cos_sim: 0.8237060904502869, reward: 0.7992392778396606, UCB: 0.9667127132415771.
+Begin MAB selection.
+Start from epoch 254, select Dataset121_UflairWMH for joint training, selected 6 times.
+Info: loss: 0.5620495080947876, cos_sim: 0.7910088300704956, reward: 0.7918318510055542, UCB: 0.9416734576225281.
+Begin MAB selection.
+Start from epoch 255, select Dataset119_GflairWMH for joint training, selected 7 times.
+Info: loss: 0.5445955395698547, cos_sim: 0.7640587687492371, reward: 0.7552053332328796, UCB: 0.8920357823371887.
+Begin MAB selection.
+Start from epoch 256, select Dataset019_FeTS04t1ceET for joint training, selected 4 times.
+Info: loss: 0.5841874480247498, cos_sim: 0.8046611547470093, reward: 0.7860341668128967, UCB: 0.9796041250228882.
+Begin MAB selection.
+Start from epoch 257, select Dataset026_FeTS18flairED for joint training, selected 5 times.
+Info: loss: 0.3742980659008026, cos_sim: 0.5401051044464111, reward: 0.4528745412826538, UCB: 0.6205649971961975.
+Begin MAB selection.
+Start from epoch 258, select Dataset015_FeTS04flairNCR for joint training, selected 3 times.
+Info: loss: 0.7883792519569397, cos_sim: 0.6709354519844055, reward: 0.6388711929321289, UCB: 0.8760972619056702.
+Begin MAB selection.
+Start from epoch 259, select Dataset015_FeTS04flairNCR for joint training, selected 4 times.
+Info: loss: 0.7903350591659546, cos_sim: 0.8991515636444092, reward: 0.8731235265731812, UCB: 1.0668796300888062.
+Begin MAB selection.
+Start from epoch 260, select Dataset014_FeTS04flairED for joint training, selected 7 times.
+Info: loss: 0.4504814147949219, cos_sim: 0.8664486408233643, reward: 0.8555995225906372, UCB: 0.992649257183075.
+Begin MAB selection.
+Start from epoch 261, select Dataset119_GflairWMH for joint training, selected 8 times.
+Info: loss: 0.5460225343704224, cos_sim: 0.680228590965271, reward: 0.6980037093162537, UCB: 0.8249272704124451.
+Begin MAB selection.
+Start from epoch 262, select Dataset002_FeTS01flairED for joint training, selected 7 times.
+Info: loss: 0.573733389377594, cos_sim: 0.7232623100280762, reward: 0.6151992678642273, UCB: 0.7523355484008789.
+Begin MAB selection.
+Start from epoch 263, select Dataset121_UflairWMH for joint training, selected 7 times.
+Info: loss: 0.45365697145462036, cos_sim: 0.8420235514640808, reward: 0.817768931388855, UCB: 0.9549481868743896.
+Begin MAB selection.
+Start from epoch 264, select Dataset002_FeTS01flairED for joint training, selected 8 times.
+Info: loss: 0.4521495997905731, cos_sim: 0.8485134840011597, reward: 0.8446972370147705, UCB: 0.9717402458190918.
+Begin MAB selection.
+Start from epoch 265, select Dataset013_FeTS04flairET for joint training, selected 4 times.
+Info: loss: 0.8166379928588867, cos_sim: 0.8896609544754028, reward: 0.8020889163017273, UCB: 0.9962106943130493.
+Begin MAB selection.
+Start from epoch 266, select Dataset121_UflairWMH for joint training, selected 8 times.
+Info: loss: 0.4030090272426605, cos_sim: 0.15789350867271423, reward: 0.12791822850704193, UCB: 0.25504010915756226.
+Begin MAB selection.
+Start from epoch 267, select Dataset016_FeTS04t1ET for joint training, selected 2 times.
+Info: loss: 0.9952007532119751, cos_sim: 0.7271348237991333, reward: 0.6264371275901794, UCB: 0.9628738164901733.
+Begin MAB selection.
+Start from epoch 268, select Dataset023_FeTS04t2ED for joint training, selected 2 times.
+Info: loss: 0.7975760698318481, cos_sim: 0.8176780343055725, reward: 0.758242130279541, UCB: 1.0947821140289307.
+Begin MAB selection.
+Start from epoch 269, select Dataset002_FeTS01flairED for joint training, selected 9 times.
+Info: loss: 0.6720943450927734, cos_sim: 0.9804873466491699, reward: 0.9731298685073853, UCB: 1.092151165008545.
+Begin MAB selection.
+Start from epoch 270, select Dataset021_FeTS04t1ceNCR for joint training, selected 2 times.
+Info: loss: 0.9573338627815247, cos_sim: 0.853347659111023, reward: 0.791043758392334, UCB: 1.1277893781661987.
+Begin MAB selection.
+Start from epoch 271, select Dataset018_FeTS04t1NCR for joint training, selected 2 times.
+Info: loss: 0.9994010329246521, cos_sim: 0.8198006749153137, reward: 0.8102817535400391, UCB: 1.1471295356750488.
+Begin MAB selection.
+Start from epoch 272, select Dataset015_FeTS04flairNCR for joint training, selected 5 times.
+Info: loss: 0.7708548307418823, cos_sim: 0.9023685455322266, reward: 0.9043376445770264, UCB: 1.0728124380111694.
+Begin MAB selection.
+Start from epoch 273, select Dataset015_FeTS04flairNCR for joint training, selected 6 times.
+Info: loss: 0.7651144862174988, cos_sim: 0.8739529252052307, reward: 0.8769913911819458, UCB: 1.0277252197265625.
+Begin MAB selection.
+Start from epoch 274, select Dataset013_FeTS04flairET for joint training, selected 5 times.
+Info: loss: 0.7064828276634216, cos_sim: 0.7246648073196411, reward: 0.7320623993873596, UCB: 0.9006384611129761.
+Begin MAB selection.
+Start from epoch 275, select Dataset002_FeTS01flairED for joint training, selected 10 times.
+Info: loss: 0.710343599319458, cos_sim: 0.9581224918365479, reward: 0.9289869070053101, UCB: 1.0414044857025146.
+Begin MAB selection.
+Start from epoch 276, select Dataset118_iSegt2WM for joint training, selected 5 times.
+Info: loss: 1.1860854625701904, cos_sim: 0.7784184217453003, reward: 0.779521107673645, UCB: 0.9481977224349976.
+Begin MAB selection.
+Start from epoch 277, select Dataset021_FeTS04t1ceNCR for joint training, selected 3 times.
+Info: loss: 0.9336318373680115, cos_sim: 0.4204672574996948, reward: 0.330904483795166, UCB: 0.5695198774337769.
+Begin MAB selection.
+Start from epoch 278, select Dataset002_FeTS01flairED for joint training, selected 11 times.
+Info: loss: 0.5127646327018738, cos_sim: 0.8704454898834229, reward: 0.793531060218811, UCB: 0.9002746343612671.
+Begin MAB selection.
+Start from epoch 279, select Dataset115_iSegt1WM for joint training, selected 6 times.
+Info: loss: 1.1639758348464966, cos_sim: 0.6978051662445068, reward: 0.6902812719345093, UCB: 0.8412838578224182.
+Begin MAB selection.
+Start from epoch 280, select Dataset115_iSegt1WM for joint training, selected 7 times.
+Info: loss: 1.1419944763183594, cos_sim: 0.7083518505096436, reward: 0.706544816493988, UCB: 0.8444310426712036.
+Begin MAB selection.
+Start from epoch 281, select Dataset117_iSegt2GM for joint training, selected 5 times.
+Info: loss: 1.2752764225006104, cos_sim: 0.7415841817855835, reward: 0.7348052859306335, UCB: 0.9037299752235413.
+Begin MAB selection.
+Start from epoch 282, select Dataset015_FeTS04flairNCR for joint training, selected 7 times.
+Info: loss: 0.8173803687095642, cos_sim: 0.6127721667289734, reward: 0.5212965607643127, UCB: 0.6592630743980408.
+Begin MAB selection.
+Start from epoch 283, select Dataset026_FeTS18flairED for joint training, selected 6 times.
+Info: loss: 0.37265142798423767, cos_sim: 0.550492525100708, reward: 0.5300310254096985, UCB: 0.6812095046043396.
+Begin MAB selection.
+Start from epoch 284, select Dataset118_iSegt2WM for joint training, selected 6 times.
+Info: loss: 1.0555846691131592, cos_sim: 0.6865639686584473, reward: 0.6409408450126648, UCB: 0.7921628952026367.
+Begin MAB selection.
+Start from epoch 285, select Dataset013_FeTS04flairET for joint training, selected 6 times.
+Info: loss: 0.7226381301879883, cos_sim: 0.9143862724304199, reward: 0.8614159226417542, UCB: 1.0126813650131226.
+Begin MAB selection.
+Start from epoch 286, select Dataset022_FeTS04t2ET for joint training, selected 2 times.
+Info: loss: 0.840886116027832, cos_sim: 0.5704851150512695, reward: 0.5731496214866638, UCB: 0.9114862680435181.
+Begin MAB selection.
+Start from epoch 287, select Dataset021_FeTS04t1ceNCR for joint training, selected 4 times.
+Info: loss: 0.932813823223114, cos_sim: 0.9281841516494751, reward: 0.9061145782470703, UCB: 1.1015089750289917.
+Begin MAB selection.
+Start from epoch 288, select Dataset121_UflairWMH for joint training, selected 9 times.
+Info: loss: 0.6438825726509094, cos_sim: 0.9058066606521606, reward: 0.8959913849830627, UCB: 1.0156794786453247.
+Begin MAB selection.
+Start from epoch 289, select Dataset121_UflairWMH for joint training, selected 10 times.
+Info: loss: 0.6040899157524109, cos_sim: 0.9099470973014832, reward: 0.9085515141487122, UCB: 1.0214264392852783.
+Begin MAB selection.
+Start from epoch 290, select Dataset121_UflairWMH for joint training, selected 11 times.
+Info: loss: 0.5653721690177917, cos_sim: 0.8331016302108765, reward: 0.8406466245651245, UCB: 0.9477593898773193.
+Begin MAB selection.
+Start from epoch 291, select Dataset002_FeTS01flairED for joint training, selected 12 times.
+Info: loss: 0.6422083973884583, cos_sim: 0.8100609183311462, reward: 0.7562435865402222, UCB: 0.858400285243988.
+Begin MAB selection.
+Start from epoch 292, select Dataset013_FeTS04flairET for joint training, selected 7 times.
+Info: loss: 0.7223721742630005, cos_sim: 0.462169349193573, reward: 0.48148685693740845, UCB: 0.6198463439941406.
+Begin MAB selection.
+Start from epoch 293, select Dataset002_FeTS01flairED for joint training, selected 13 times.
+Info: loss: 0.5769814252853394, cos_sim: 0.7700016498565674, reward: 0.7334568500518799, UCB: 0.8313190340995789.
+Begin MAB selection.
+Start from epoch 294, select Dataset014_FeTS04flairED for joint training, selected 8 times.
+Info: loss: 0.6379413604736328, cos_sim: 0.6076172590255737, reward: 0.5932539105415344, UCB: 0.7214211225509644.
+Begin MAB selection.
+Start from epoch 295, select Dataset026_FeTS18flairED for joint training, selected 7 times.
+Info: loss: 0.3702222406864166, cos_sim: 0.19338637590408325, reward: 0.17152054607868195, UCB: 0.30999523401260376.
+Begin MAB selection.
+Start from epoch 296, select Dataset024_FeTS04t2NCR for joint training, selected 3 times.
+Info: loss: 0.7860930562019348, cos_sim: 0.326789528131485, reward: 0.2942684590816498, UCB: 0.5341797471046448.
+Begin MAB selection.
