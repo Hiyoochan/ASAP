@@ -1,4 +1,4 @@
-An active and sequential domain adaptation (ASAP) framework for dynamic auxiliary dataset selection in few-shot domain adaptation.
+An active and sequential domain adaptation (ASAP) framework to adapt foundation models for medical image segmentation
 
 
 
