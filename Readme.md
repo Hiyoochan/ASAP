@@ -1,4 +1,4 @@
-# ASAP: An active and sequential domain adaptation framework for medical image segmentation
+# ASAP: an Active and Sequential domain AdaPtation framework for medical image segmentation
 
 
 
