@@ -1,6 +1,8 @@
-# ASAP: Actively and Sequentially AdaPtation the model for medical image segmentation
+# ASAP: Actively and Sequentially AdaPt the model for medical image segmentation
 
+## Overview
 
+We propose an active and sequential domain adaptation (ASAP) framework to adapt the models for medical image segmentation.
 
 Fine-tuning pre-trained models on specific low-resource medical segmentation tasks has become a standard practice.
 To ensure reliable and robust model adaptation when the target task has a large domain gap and few annotated samples we utilize auxiliary datasets.
