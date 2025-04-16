@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Overview
 
-Welcome! This is the official repo of the ISBI 2025 paper "Adapting Foundation Models for Few-Shot Medical Image Segmentation: Actively and Sequentially". 
+Welcome! This is the official repo of the ISBI 2025 paper ["Adapting Foundation Models for Few-Shot Medical Image Segmentation: Actively and Sequentially"](https://arxiv.org/abs/2502.01000). 
 
 - Jingyun Yang, Guoqing Zhang, Jingge Wang, Yang Li
 
@@ -46,4 +46,9 @@ Please cite our paper if you find our work useful. Thanks!
   year={2025}
 }
 
+```
 
+
+##  📧 Contanct
+
+If you have any questions, please feel free to contact me via yangjy20@mails.tsinghua.edu.cn
