@@ -2,13 +2,23 @@
 
 ## Overview
 
-We propose an active and sequential domain adaptation (ASAP) framework to adapt the models for medical image segmentation.
+Welcome! This is the official repo of the ISBI 2025 paper "Adapting Foundation Models for Few-Shot Medical Image Segmentation: Actively and Sequentially". 
+
+### Jingyun Yang, Guoqing Zhang, Jingge Wang, Yang Li
+
+We propose an active and sequential domain adaptation (ASAP) framework to adapt foundation models for few-shot medical image segmentation.
 
 Fine-tuning pre-trained models on specific low-resource medical segmentation tasks has become a standard practice.
 To ensure reliable and robust model adaptation when the target task has a large domain gap and few annotated samples we utilize auxiliary datasets.
 
 <img width="535" alt="截屏2024-10-08 23 29 32" src="https://github.com/user-attachments/assets/d596ad07-c5d7-4236-ad24-13ff5f95738b">
 
+## Framework
+
 We formulate FSDA as a multi-armed bandit problem and derive an efficient reward function to prioritize training on auxiliary datasets that align closely with the target task, through a single-round fine-tuning.
 
 <img width="818" alt="截屏2024-10-08 23 26 38" src="https://github.com/user-attachments/assets/d5538a15-9384-434a-ad33-a0938bb5415e">
+
+## Results
+
+## Citation
