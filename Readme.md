@@ -1,4 +1,4 @@
-# ASAP: Actively and Sequentially AdaPt the model for medical image segmentation
+# ASAP: Actively and Sequentially AdaPt foundation models for medical image segmentation
 
 ## 👩🏻‍💻 Overview
 
@@ -8,10 +8,11 @@ Welcome! This is the official repo of the ISBI 2025 paper "Adapting Foundation M
 
 We propose an active and sequential domain adaptation (ASAP) framework to adapt foundation models for few-shot medical image segmentation.
 
-Fine-tuning pre-trained models on specific low-resource medical segmentation tasks has become a standard practice.
-To ensure reliable and robust model adaptation when the target task has a large domain gap and few annotated samples we utilize auxiliary datasets.
+### Goal
+-Leverage a wealth of public medical resources: foundation models & available auxiliary datasets
+-Objective: efficiently utilize these resources to tailor a model for the desired few-shot target task.
+![image](https://github.com/user-attachments/assets/576b9c65-a56a-4876-a79f-6a23d3536235)
 
-<img width="535" alt="截屏2024-10-08 23 29 32" src="https://github.com/user-attachments/assets/d596ad07-c5d7-4236-ad24-13ff5f95738b">
 
 ## 🪜 Framework
 
@@ -22,9 +23,12 @@ We formulate FSDA as a multi-armed bandit problem and derive an efficient reward
 ## 🧀 Results
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/832659a0-36f2-41ed-afb1-fc665b60e08f" />
 
+
 <img width="414" alt="image" src="https://github.com/user-attachments/assets/f8f480ef-2fb4-4257-b84e-209a80a64c0a" />
 
+
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/cf8681de-f86d-41b8-8d02-4a346066a636" />
+
 
 ## ⭐ Citation
 
@@ -38,5 +42,4 @@ Please cite our paper if you find our work useful. Thanks!
   year={2025}
 }
 
-## 📧 Contact
-If you have any questions, please feel free to contact yangjy20@mails.tsinghua.edu.cn
+
