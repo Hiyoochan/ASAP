@@ -9,24 +9,28 @@ Welcome! This is the official repo of the ISBI 2025 paper "Adapting Foundation M
 We propose an active and sequential domain adaptation (ASAP) framework to adapt foundation models for few-shot medical image segmentation.
 
 ### Goal
--Leverage a wealth of public medical resources: foundation models & available auxiliary datasets
--Objective: efficiently utilize these resources to tailor a model for the desired few-shot target task.
-![image](https://github.com/user-attachments/assets/576b9c65-a56a-4876-a79f-6a23d3536235)
+- Leverage a wealth of public medical resources: foundation models & available auxiliary datasets
+- Objective: efficiently utilize these resources to tailor a model for the desired few-shot target task.
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/7e87b57d-7c49-4445-b12a-06337d5e9567" />
+
 
 
 ## 🪜 Framework
 
-We formulate FSDA as a multi-armed bandit problem and derive an efficient reward function to prioritize training on auxiliary datasets that align closely with the target task, through a single-round fine-tuning.
+- Sequential domain adaptation strategy: transfer the knowledge from the source domain to the target domain step by step
 
-<img width="818" alt="截屏2024-10-08 23 26 38" src="https://github.com/user-attachments/assets/d5538a15-9384-434a-ad33-a0938bb5415e">
+- Dynamic dataset selection algorithm: prioritize training on auxiliary datasets with similar solution spaces to the target task in a single-round computational complexity 
+
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/076a7588-c529-423f-8058-0dd5bfcc512a" />
+
 
 ## 🧀 Results
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/832659a0-36f2-41ed-afb1-fc665b60e08f" />
-
+\\
 
 <img width="414" alt="image" src="https://github.com/user-attachments/assets/f8f480ef-2fb4-4257-b84e-209a80a64c0a" />
 
-
+\\
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/cf8681de-f86d-41b8-8d02-4a346066a636" />
 
 
