@@ -1,4 +1,4 @@
-# ASAP: Actively and Sequentially AdaPt foundation models for medical image segmentation
+# ISBI 2025 | ASAP: Actively and Sequentially AdaPt foundation models for medical image segmentation
 
 ## 👩🏻‍💻 Overview
 
